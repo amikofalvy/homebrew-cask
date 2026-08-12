@@ -1,6 +1,6 @@
 cask "openknowledge" do
-  version "0.52.5"
-  sha256 "574803fa81c9da478fc112924370f193cf27519d8c6524045e9479dc7a074336"
+  version "0.52.6"
+  sha256 "e627ae8443daed654859565b1e707308af667b7e9722e8e378e3c45bff049e55"
 
   url "https://github.com/inkeep/open-knowledge/releases/download/v#{version}/OpenKnowledge-arm64.dmg"
   name "OpenKnowledge"
